@@ -9,7 +9,7 @@ import {
 
 const Hero = () => {
   return (
-    <section role="contentinfo" className="mobile:flex mobile:flex-row-reverse mobile:justify-around ">
+    <section className="mobile:flex mobile:flex-row-reverse mobile:justify-around ">
       <div className="mobile:w-[30em] ">
         <img
           src={heroMobile}
@@ -39,32 +39,34 @@ const Hero = () => {
           </div>
         </article>
 
-        <ul className="flex justify-around p-4 mt-5 ">
-          <li>
-            <a href="#">
-              <img className="p-2" src={clientDatabiz} alt="Databiz logo" />
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <img
-                className="p-2"
-                src={clientAudiophile}
-                alt="Audiophile logo"
-              />
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <img className="p-2" src={clientMeet} alt="Meet logo" />
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <img className="p-2" src={clientMarker} alt="Marker logo" />
-            </a>
-          </li>
-        </ul>
+        <footer>
+          <ul className="flex justify-around p-4 mt-5 ">
+            <li>
+              <a href="#">
+                <img className="p-2" src={clientDatabiz} alt="Databiz logo" />
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <img
+                  className="p-2"
+                  src={clientAudiophile}
+                  alt="Audiophile logo"
+                />
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <img className="p-2" src={clientMeet} alt="Meet logo" />
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <img className="p-2" src={clientMarker} alt="Marker logo" />
+              </a>
+            </li>
+          </ul>
+        </footer>
       </div>
     </section>
   )
