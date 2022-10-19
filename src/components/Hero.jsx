@@ -9,7 +9,7 @@ import {
 
 const Hero = () => {
   return (
-    <section className="mobile:flex mobile:flex-row-reverse mobile:justify-around ">
+    <section role="contentinfo" className="mobile:flex mobile:flex-row-reverse mobile:justify-around ">
       <div className="mobile:w-[30em] ">
         <img
           src={heroMobile}
@@ -23,7 +23,7 @@ const Hero = () => {
         />
       </div>
 
-      <div role="article" className="mobile:flex flex-col justify-between pl-2 pr-2">
+      <div className="mobile:flex flex-col justify-between pl-2 pr-2">
         <article className="mt-6 space-y-16 w-[35ch] mx-auto mobile:w-[50ch]">
           <h1 className="text-4xl font-bold text-center mobile:text-left mobile:text-[4.2rem] mobile:leading-[5rem] ">
             Make Remote Work
