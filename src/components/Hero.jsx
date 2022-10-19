@@ -10,7 +10,7 @@ import {
 const Hero = () => {
   return (
     <section className="mobile:flex mobile:flex-row-reverse mobile:justify-around ">
-      <div className="mobile:w-[30em] ">
+      <div     role="img" className="mobile:w-[30em] ">
         <img
           src={heroMobile}
           alt="hero"
