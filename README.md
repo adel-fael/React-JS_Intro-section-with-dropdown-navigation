@@ -1,6 +1,6 @@
 # Frontend Mentor - Intro section with dropdown navigation solution
 
-This is a solution to the [Intro section with dropdown navigation challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Intro section with dropdown navigation challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -14,7 +14,6 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
     - [Built with](#built-with)
     - [Useful resources](#useful-resources)
   - [Author](#author)
-
 
 ## Overview
 
@@ -32,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5/hub/introsectionwithdropdownnavigationreactjs-bapYI-nHIe](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5/hub/introsectionwithdropdownnavigationreactjs-bapYI-nHIe)
+- Live Site URL: [https://react-hero-dropdown-navigation.netlify.app/](https://react-hero-dropdown-navigation.netlify.app/)
 
 ## My process
 
@@ -43,16 +42,13 @@ Users should be able to:
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Tailwind CSS](https://tailwindcss.com/) - For styles
-- [Headless UI](https://headlessui.com/) - For animation
-
+- [Headless UI](https://headlessui.com/) - For drop animation
 
 ### Useful resources
 
-- [flexbox.malven.co](https://flexbox.malven.co/) - Great insight of flexbox.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [flexbox.malven.co](https://flexbox.malven.co/) - Great insight on flexbox.
 
 ## Author
 
 - Website - [Adel Fael](https://adelfael.netlify.app/)
 - Frontend Mentor - [@Adel-Fael](https://www.frontendmentor.io/profile/Adel-Fael)
-
