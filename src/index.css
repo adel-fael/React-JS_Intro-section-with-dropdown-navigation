@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  box-sizing: border-box;
+  font-family: 'Epilogue', sans-serif;
+}
+
+.button-state {
+  @apply  hover:bg-white hover:text-black  focus:bg-white focus:text-black active:bg-white active:text-black 
+}
