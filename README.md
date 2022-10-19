@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5/hub/introsectionwithdropdownnavigationreactjs-bapYI-nHIe](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5/hub/introsectionwithdropdownnavigationreactjs-bapYI-nHIe)
+- Solution URL: [https://www.frontendmentor.io/solutions/introsectionwithdropdownnavigationreactjs-bapYI-nHIe](https://www.frontendmentor.io/solutions/introsectionwithdropdownnavigationreactjs-bapYI-nHIe)
 - Live Site URL: [https://react-hero-dropdown-navigation.netlify.app/](https://react-hero-dropdown-navigation.netlify.app/)
 
 ## My process
