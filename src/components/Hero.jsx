@@ -23,7 +23,7 @@ const Hero = () => {
         />
       </div>
 
-      <div className="mobile:flex flex-col justify-between pl-2 pr-2">
+      <div role='heading' className="mobile:flex flex-col justify-between pl-2 pr-2">
         <article className="mt-6 space-y-16 w-[35ch] mx-auto mobile:w-[50ch]">
           <h1 className="text-4xl font-bold text-center mobile:text-left mobile:text-[4.2rem] mobile:leading-[5rem] ">
             Make Remote Work
