@@ -39,34 +39,33 @@ const Hero = () => {
           </div>
         </article>
 
-        <footer>
-          <ul className="flex justify-around p-4 mt-5 ">
-            <li>
-              <a href="#">
-                <img className="p-2" src={clientDatabiz} alt="Databiz logo" />
-              </a>
-            </li>
-            <li>
-              <a href="#">
-                <img
-                  className="p-2"
-                  src={clientAudiophile}
-                  alt="Audiophile logo"
-                />
-              </a>
-            </li>
-            <li>
-              <a href="#">
-                <img className="p-2" src={clientMeet} alt="Meet logo" />
-              </a>
-            </li>
-            <li>
-              <a href="#">
-                <img className="p-2" src={clientMarker} alt="Marker logo" />
-              </a>
-            </li>
-          </ul>
-        </footer>
+
+        <ul className="flex justify-around p-4 mt-5 ">
+          <li>
+            <a href="#">
+              <img className="p-2" src={clientDatabiz} alt="Databiz logo" />
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <img
+                className="p-2"
+                src={clientAudiophile}
+                alt="Audiophile logo"
+              />
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <img className="p-2" src={clientMeet} alt="Meet logo" />
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <img className="p-2" src={clientMarker} alt="Marker logo" />
+            </a>
+          </li>
+        </ul>
       </div>
     </section>
   )
