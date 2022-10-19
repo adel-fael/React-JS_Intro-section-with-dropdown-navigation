@@ -19,13 +19,13 @@ const Navbar = () => {
           <li className="hidden mobile:block">
             <a
               href="#"
-              className="text-gray-500 text-lg  hover:text-black  transition duration-400 px-10 "
+              className="text-gray-500 text-sm  hover:text-black  transition duration-400 px-10 "
             >
               Login
             </a>
             <a
               href="#"
-              className="text-gray-500 text-lg border-2 rounded-xl border-gray-400 hover:text-black  hover:border-black transition duration-400 px-4 py-2"
+              className="text-gray-500 text-sm border-2 rounded-xl border-gray-400 hover:text-black  hover:border-black transition duration-400 px-4 py-2"
             >
               Register
             </a>
